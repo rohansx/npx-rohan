@@ -15,7 +15,7 @@ const options = {
 const data = {
   intro:
     "I am Rohan, your friendly neighborhood coder, focused on helping future developers be better!",
-  work: "Founder at OpenXYZ",
+  work: "Associate Software Developer at OpenXYZ",
   twitter: "https://twitter.com/rohaxyz",
   github: "https://github.com/rohansx",
   linkedin: "https://linkedin.com/in/rohansx",
