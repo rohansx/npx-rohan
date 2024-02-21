@@ -1,0 +1,41 @@
+{
+  "name": "rohan",
+  "version": "1.0.0",
+  "description": "Rohan's introduction on terminal",
+  "exports": "./index.js",
+  "bin": {
+    "rohan": "./bin/index.js"
+  },
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "npm run build",
+    "build": "node build.js",
+    "dev": "npm run build && node ./bin/card.js",
+    "lint": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohansx/npx-rohan.git"
+  },
+  "keywords": [
+    "business",
+    "rohan",
+    "npx-card",
+    "business",
+    "card",
+    "rohan",
+    "sharma"
+  ],
+  "author": "rohansx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohansx/npx-rohan/issues"
+  },
+  "homepage": "https://github.com/rohansx/npx-rohan#readme",
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0"
+  }
+}
