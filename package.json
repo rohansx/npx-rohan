@@ -4,7 +4,7 @@
   "description": "Rohan's introduction on terminal",
   "exports": "./index.js",
   "bin": {
-    "rohan": "./bin/index.js"
+    "rohansx": "./bin/index.js"
   },
   "type": "module",
   "main": "index.js",
