@@ -1,6 +1,6 @@
 {
   "name": "rohansx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Rohan's introduction on terminal",
   "exports": "./index.js",
   "bin": {
